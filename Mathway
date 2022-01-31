@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <link rel="shortcut icon" type="image/jpg" href="https://mathway.neocities.org/mathway.jpg"/>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mathway Unblocked</title>
+    <link href="/style.css" rel="stylesheet" type="text/css" media="all">
+    <style>
+      h4{
+        color: white;
+        font-family: arial, sans-serif;
+      }
+      h2{
+        color: white;
+        font-family: arial, sans-serif;
+      }
+       h6{
+        color: white;
+        font-family: arial, sans-serif;
+        font-weight: bold;
+      }
+      h5{
+        color: white;
+        font-family: arial, sans-serif;
+        font-weight: bold;
+      }
+      h1{
+        color: white;
+        font-family: arial, sans-serif;
+        font-weight: bold;
+        text-align: center;
+      }
+      a{
+        color: #7289DA;
+        font-family: arial, sans-serif;
+        text-align: center;
+      }
+      body{
+        background-color: #2C2F33;
+        text-align: center
+      }
+      </style>
+  </head>
+  <body>
+    <h1>Mathway Unblocked (Temporary Website)</h1>
+    <iframe style="width: 100%; height: 500px; border: 1px solid #E1E1E1;" src="https://www.mathway.com/ProblemWidget.aspx" frameborder="0" scrolling="no"></iframe>
+    <p>
+    <h4>Select the three bars at the top left and choose your subject (default is Algebra)
+    <p>
+    <h4>Website created by a fellow student. :)</h4>
+    <h4>Mathway is not owned or created by me.</h4>
+</p>
+  </body>
+</html>
